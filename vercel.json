@@ -1,8 +1,4 @@
 {
-  "env": {
-    "AIRTABLE_API_KEY": "@airtable-api-key",
-    "AIRTABLE_BASE_ID": "app9Jz0Oqy2l7i6P8"
-  },
   "functions": {
     "api/**/*.ts": {
       "runtime": "now-deno@0.4.0"
